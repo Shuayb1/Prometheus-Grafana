@@ -1,0 +1,17 @@
+{
+	"ulid": "01HS4AR208V62GJVQ9Z2MF19S1",
+	"minTime": 1710605417432,
+	"maxTime": 1710612000000,
+	"stats": {
+		"numSamples": 260255,
+		"numSeries": 436,
+		"numChunks": 2181
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01HS4AR208V62GJVQ9Z2MF19S1"
+		]
+	},
+	"version": 1
+}

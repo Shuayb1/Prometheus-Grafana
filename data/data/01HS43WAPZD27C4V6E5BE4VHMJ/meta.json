@@ -1,0 +1,17 @@
+{
+	"ulid": "01HS43WAPZD27C4V6E5BE4VHMJ",
+	"minTime": 1710440803511,
+	"maxTime": 1710446400000,
+	"stats": {
+		"numSamples": 5,
+		"numSeries": 5,
+		"numChunks": 5
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01HS43WAPZD27C4V6E5BE4VHMJ"
+		]
+	},
+	"version": 1
+}
